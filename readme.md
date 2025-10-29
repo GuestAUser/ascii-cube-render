@@ -1,0 +1,1 @@
+gcc -std=c11 -O3 -march=native -pipe -Wall -Wextra -Wshadow -Wconversion -pedantic cubev1.c -lm -o cube
